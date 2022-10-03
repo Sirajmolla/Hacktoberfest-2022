@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    const int tahun_sekarang = 2021;
+    const int tahun_sekarang = 2022;
     int tahun_lahir, hasil;
 
     cout<<"Menghitung Umur"<<endl;
