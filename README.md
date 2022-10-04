@@ -2,7 +2,7 @@
 <h4 align=center>Hacktoberfest is a month-long celebration of open source software sponsored by Digital Ocean, Intel, and DEV.</h4>
 
 
-<img src="images/hacktoberfest (1).png" width="100%">
+<img src="https://github.com/techhunter2/Hacktoberfest-2022/blob/hact/images/hacktoberfest%20(1).png" width="100%">
 
 <br>
 
