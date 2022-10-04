@@ -4,7 +4,7 @@
 
 
 <img src="images/hacktoberfest (1).png" width="100%">
-=======
+
 <img src="https://github.com/techhunter2/Hacktoberfest-2022/blob/hact/images/hacktoberfest%20(1).png" width="100%">
 
 
