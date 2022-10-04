@@ -2,7 +2,11 @@
 <h4 align=center>Hacktoberfest is a month-long celebration of open source software sponsored by Digital Ocean, Intel, and DEV.</h4>
 
 
+
+<img src="images/hacktoberfest (1).png" width="100%">
+=======
 <img src="https://github.com/techhunter2/Hacktoberfest-2022/blob/hact/images/hacktoberfest%20(1).png" width="100%">
+
 
 <br>
 
@@ -120,7 +124,8 @@ GitHub will alert you that you can merge the two branches because there is no co
 <h1 align=center>Happy Coding 👨‍💻 </h1>
 
 <p align="center">show some ❤️&nbsp; by giving a star to this repo!!</p>
-=======
+
 # Hacktoberfest-2022
 About 🌸ꗥ～ꗥ🌸 𝐄𝐕𝐄𝐑𝐘𝐎𝐍𝐄 𝐈𝐒 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐇𝐀𝐂𝐊𝐓𝐎𝐁𝐄𝐑𝐅𝐄𝐒𝐓-𝟐𝟎𝟐𝟐 𝐄𝐕𝐄𝐍𝐓𝐒 𝐀𝐍𝐃 𝐁𝐄 𝐀 𝐏𝐀𝐑𝐓 𝐎𝐅 𝐓𝐇𝐄 𝐎𝐏𝐄𝐍-𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐓𝐘. 🌸ꗥ～ꗥ🌸  https://github.com/Sirajmolla/Hackoberfest-2022 Topics open-source developer-experience learning-by-doing maintainer hactoberfest hactoberfest-accepted hactoberfest-starter
+
 
