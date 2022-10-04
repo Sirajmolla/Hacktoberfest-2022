@@ -7,3 +7,4 @@ def starPattern(n):
 
 n = int(input("Enter the number of rows: "))
 starPattern(n)
+
