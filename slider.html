@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>@slider</title>
+
+
+
+	<style>
+		*
+		{
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+			font-family: 'Fredoka One', cursive;
+		}
+		html
+		{
+			font-size: 62.5%;
+		}
+		.center_div
+		{
+			width: 100vw;
+			height: 100vh;
+			background-color: #2f3542;
+			display: grid;
+			place-items: center;
+		}
+		h1
+		{
+			color: #fff;
+			font-size: 6rem;
+			text-transform: uppercase;
+			position: relative;
+		}
+		h1::before
+		{
+			content: "SubhaInfoTech";
+			width: 100%;
+			color: #2ed573;
+			position: absolute;
+			top: 0;
+			left: 0;
+			border-right: 0.1rem solid #2ed573;
+			animation: slide 3s linear infinite;
+			-webkit-animation: slide 3s linear infinite;
+			overflow: hidden;
+		}
+		
+		@keyframes slide {
+			0% {
+				width: 0%;
+			}
+			50% {
+				width: 100%;
+			}
+			100% {
+				width: 0%;
+			}
+		}
+
+	</style>
+
+
+
+</head>
+<body>
+	<div class="center_div">
+		<h1>SubhaInfoTech</h1>
+	</div>
+
+</body>
+</html>
