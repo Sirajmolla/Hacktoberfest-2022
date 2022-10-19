@@ -1,29 +1,27 @@
-#include<stdio.h>
-void creation(int arr[], int size)
+// C program to traverse the array
+
+#include <stdio.h>
+
+// Function to traverse and print the array
+void printArray(int* arr, int n)
 {
-  int el,pos=0;
- 
-  while(pos<size)
-   {
-      printf("Enter element %d : ",pos+1);
-      scanf("%d",&el);
-      arr[pos]=el;
-      pos++;
-   }
+	int i;
+
+	printf("Array: ");
+	for (i = 0; i < n; i++) {
+		printf("%d ", arr[i]);
+	}
+	printf("\n");
 }
-void traversal(int arr[], int size)
+
+// Driver program
+int main()
 {
-    int i;
-      for(i=0;i<size;i++)
-    printf("%d ",arr[i]);
+	int arr[] = { 2, -1, 5, 6, 0, -3 };
+	int n = sizeof(arr) / sizeof(arr[0]);
+
+	printArray(arr, n);
+
+	return 0;
 }
-void main()
-{
-   int arr[20]; //arr is an Array DS of size 20, linear, static, non-primitive
-   int size;
-   printf("Enter the size of the DS (Max-20): ");
-   scanf("%d",&size);
-   creation(arr,size);
-   traversal(arr,size);
-}
- 
+
